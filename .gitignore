@@ -37,3 +37,6 @@ rsconnect/
 
 R/.DS_Store
 .DS_Store
+
+data/
+data-raw/
